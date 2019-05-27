@@ -1,6 +1,9 @@
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
+/**
+ * 参考：https://train.usaco.org/usacoanal2?a=LdbgoDfypjW&S=castle
+ */
 public class Monastery {
 
     private static class WeightedQuickUnionUF {
